@@ -9,4 +9,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/houssou-dossa-958a62120/'}
 
 contacts:
-- {  email: 'dossa.houssou_roland_giustti@courrier.uqam.ca', phone: '+1 (514) 586 0327', office: 'Département de mathématiques, UQAM', institution_address: '201, avenue du Président-Kennedy',institution_address1: 'PK-5518', institution_address1: 'Montréal, Qc, H2X 3Y7, Canada.'}
+- {  email: 'dossa.houssou_roland_giustti@courrier.uqam.ca', phone: '+1 (514) 586 0327', office: 'Département de mathématiques, UQAM', institution_address0: '201, avenue du Président-Kennedy',institution_address1: 'PK-5518', institution_address2: 'Montréal, Qc, H2X 3Y7, Canada.'}
