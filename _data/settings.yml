@@ -2,7 +2,6 @@ menu:
 - {name: 'Research',  url: '/Research' }
 - {name: 'Teaching', url: '/Teaching'}
 - {name: 'References', url: '/References'}
-- {name: 'Conferences', url: '/conferences'}
 
 social:
 - {icon: 'github', link: 'https://github.com/houssoudossa'}
